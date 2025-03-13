@@ -86,7 +86,9 @@ DirectoryTreeDiff accepts one of the following as the baseline input:
 - Python 3.x
   
 ## Run the Script:
-  - When the baseline is a text file:
+
+Open the Command prompt/terminal
+  - When the baseline is a text file (baseline.txt):
 ##
       python file_tree_diff.py --baseline "C:\Path\to\baseline.txt" --folder "C:\Path\to\target-folder"
 
