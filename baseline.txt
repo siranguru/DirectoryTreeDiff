@@ -1,0 +1,21 @@
+/project-sample/
+├── src/
+│   ├── main/
+│   │   ├── app.py
+│   │   └── config.yaml
+│   ├── utils/
+│   │   ├── helpers.py
+│   │   └── logger.py
+│   └── controllers/
+│       ├── user_controller.py
+│       └── auth_controller.py
+├── docs/
+│   ├── README.md
+│   └── CHANGELOG.md
+├── tests/
+│   ├── test_app.py
+│   └── test_utils.py
+├── build/
+│   ├── Dockerfile
+│   └── docker-compose.yml
+└── setup.py
